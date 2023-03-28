@@ -1,4 +1,5 @@
 ### Hi there 👋
+![](https://github.com/gottomy2/Gottomy2/blob/main/Welcome.gif)
 
 <!--
 **gottomy2/Gottomy2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
