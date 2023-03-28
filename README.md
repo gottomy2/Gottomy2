@@ -3,10 +3,7 @@
 </p>
 
 # Who am I?
-As you have probably allready noticed my name is Igor and i am a Junior Developer with specialization in Web Applications design and development.
-
-Most of the time i am working as FullStack Developer 😀
-In My free time i like to learn new frameworks languages or technologies 👨‍🎓
+As you have probably allready noticed my name is Igor and i am a Junior Developer with specialization in Web Applications design and development. Most of the time i am working as FullStack Developer 😀 In My free time i like to learn new frameworks languages or technologies 👨‍🎓
 
 ### Resume
 [Here][2] is my resume for more details
