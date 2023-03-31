@@ -1,5 +1,3 @@
-# Who am I?
-
 <p align="center">
   <img src="https://github.com/gottomy2/Gottomy2/blob/main/Entry-gif.gif" />
 </p>
