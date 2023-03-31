@@ -2,7 +2,9 @@
   <img src="https://github.com/gottomy2/Gottomy2/blob/main/Entry-gif.gif" />
 </p>
 
-Hi! My name is Igor and i am a Junior Developer with specialization in Web Applications design and development. Most of the time i am working as FullStack Developer 😀 In My free time i like to learn new frameworks languages or technologies 👨‍🎓
+
+### About Me
+Hi! My name is Igor and i am a Junior Fullstack Java Developer with specialization in Web Applications design and development. In My free time i like to learn new frameworks languages or technologies 👨‍🎓
 
 ### [Here][2] is my resume for more details
 
